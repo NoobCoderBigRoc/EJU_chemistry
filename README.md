@@ -25,7 +25,7 @@
 ### 以碳原子为骨架
 ![](https://kimika.net/wp-content/uploads/2019/06/y1yuki2.png)
 - 碳原子通过共价键形成分子骨架，可构成链状、环状、双键或三键结构。
-
+![](https://kimika.net/wp-content/uploads/2019/06/y1yuki1.png)
 ### 组成元素种类少
 - 主要由C、H、O、N、S、卤素等非金属元素组成。
 
