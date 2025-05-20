@@ -23,7 +23,7 @@
 
 ## 有机化合物的特点
 ### 以碳原子为骨架
-![]([https://picsum.photos/600/300](https://kimika.net/wp-content/uploads/2019/06/y1yuki2.png))
+![]([https://kimika.net/wp-content/uploads/2019/06/y1yuki2.png))
 - 碳原子通过共价键形成分子骨架，可构成链状、环状、双键或三键结构。
 
 ### 组成元素种类少
